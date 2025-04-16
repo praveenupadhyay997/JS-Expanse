@@ -50,3 +50,17 @@ class Solution {
         return div
     }
 }
+
+// Prime Number
+class Solution {
+    isPrime(n) {
+          let divCnt = 2
+          for(let i = 2; i< Math.sqrt(n); i++) {
+            if(n % i === 0) {
+                return false
+            }
+          }
+
+          return true
+    }
+}a
