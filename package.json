@@ -1,0 +1,11 @@
+{
+  "name": "js-expanse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node MathComplexityDSA.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
